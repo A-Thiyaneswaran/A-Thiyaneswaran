@@ -7,7 +7,7 @@ I'm a **Software Engineer** at **KION Group**, where I work on building scalable
 ## 🚀 What I Do:
 - 🔹 **Frontend & Backend Development**: Angular, Spring Boot, React, Node.js
 - ⚡ **Performance Optimization**: Redis, EhCache, PostgreSQL tuning
-- 🏆 **Problem-Solving**: 800+ LeetCode problems, **Knight (1800+) rating**
+- 🏆 **Problem-Solving**: 800+ [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MeguruBachira/) problems, **Knight (1800+) rating**
 - 🔍 **Code Reviews & Debugging**: Ensuring high-quality, optimized code
 
 ## 🔧 Tech Stack:
@@ -16,7 +16,7 @@ I'm a **Software Engineer** at **KION Group**, where I work on building scalable
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
 
 ## 📌 Featured Projects:
 🔗 **[URL Shortener & Analytics](https://github.com/A-Thiyaneswaran/url-shortener)** – Full-stack URL shortener with analytics  
@@ -31,6 +31,5 @@ Outside of coding, I'm a **fitness enthusiast** who lost **30% body weight and 1
 
 ## 📬 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiyaneswaran/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MeguruBachira/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-Thiyaneswaran)  
 📧 **Email:** [a.thiyaneswaran2001@gmail.com](mailto:a.thiyaneswaran2001@gmail.com)
